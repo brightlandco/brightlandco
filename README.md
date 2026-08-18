@@ -53,6 +53,7 @@ The public repositories visible on this profile represent isolated problem-solvi
 
 * **`SqPlus`**: A historical, heavily-templated C++ binding library for the Squirrel scripting language, utilized to bridge native C++ performance with high-level logic in game engine architectures.
 * **`ComputeSpikes`**: A pragmatic Python diagnostic utility I built specifically to isolate and debug microsecond-level audio thread dropouts for a high-end audio recording device.
+* **`PublicAI`**: A prototype AI agent running locally and interacting via speech, an AI generated complete WebGL game, and an AI generated math benchmark tool.
 
 *(Note: If you are an engineering founder or hiring manager evaluating my profile, please reach out directly. I am happy to walk through sanitized C++ architectural samples of my engine, math, physics, and networking code.)*
 
