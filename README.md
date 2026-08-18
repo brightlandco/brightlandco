@@ -41,7 +41,7 @@ I have built and deployed multiple AI-driven agents and machine-vision pipelines
 Because much of my enterprise architectural work is closed-source, my primary 3D/systems showcase is **Amazing Curves Racing (ACR)**, full and free demo versions on Steam: [ACR on Steam](https://store.steampowered.com/app/2953660/Amazing_Curves_Racing/). Built entirely from the ground up in C++, ACR solves many real-time computing challenges:
 
 * **Continuous Math vs. Polygons:** Bypassed traditional discrete polygon collision meshes by engineering a physics engine that calculates against continuous bicubic 3D Bezier surfaces.
-* **Hardware & Thread Synchronization:** Architected a 100Hz fixed-dt physics loop communicating seamlessly with a 1kHz FFB thread to deliver high Newton-meter steering forces without artificial software damping.
+* **Hardware & Thread Synchronization:** Architected a 100Hz fixed-dt physics loop communicating seamlessly with a 1kHz FFB thread to deliver high Newton-meter steering forces at higher quality and safety vs. the OS built-in system.
 * **Bulletproof Netcode:** Designed the networking stack from scratch using UDP to ensure a perfectly synchronized multiplayer experience despite inherent network jitter and packet loss.
 * **Cognitive Science based UI and Product Design** The UI is as simple as possible, easy to use first time, and gameplay is designed to maximize enjoyment, many times about removing common annoyances as much as adding fun features.
 
